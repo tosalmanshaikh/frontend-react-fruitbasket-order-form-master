@@ -1,0 +1,92 @@
+
+.number {
+    font-size: medium;
+}
+
+#reset-button {
+
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+    justify-items: center;
+    background-color: #efe2ba;
+    margin: 15px 15px 15px 15px;
+    border-radius: 100px;
+    border-color: sandybrown;
+
+}
+
+
+.verzend-button{
+    background-color: #efe2ba;
+    border-radius: 30px;
+    padding: 15px;
+    margin: 10px 10px 10px 10px;
+
+}
+
+
+#header{
+    background-color: #d9c294;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+    align-items: flex-end;
+}
+
+form   {
+
+    display: flex;
+    justify-content: center;
+    padding: 15px;
+
+}
+
+input {
+
+    display: flex;
+    background-color: #efe2ba;
+    padding: 15px;
+    border-radius: 100px;
+    margin: 5px 5px 5px 5px;
+
+
+}
+
+.referrer {
+
+
+    display: flex;
+    background-color: #efe2ba;
+    padding: 15px;
+    border-radius: 100px;
+    margin: 10px 10px 10px 10px;
+    border-color: black;
+
+
+}
+
+.terms-and-conditions {
+
+    background-color: black;
+}
+
+#comments{
+    display: flex;
+    justify-content: space-around;
+    background-color: #efe2ba;
+    border-radius: 100px;
+    padding: 15px;
+
+}
+
+
+.radio-button {
+
+    background-color: #d9c294;
+    display: flex;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+
+
+}
